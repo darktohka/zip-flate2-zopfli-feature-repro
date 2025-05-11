@@ -134,7 +134,7 @@ checksum = "5a5f39404a5da50712a4c1eecf25e90dd62b613502b7e925fd4e4d19b5c96512"
 [[package]]
 name = "zip"
 version = "2.6.1"
-source = "git+https://github.com/darktohka/zip2#386733bedf3633dc84fc74007780cdd3ed9887b8"
+source = "git+https://github.com/darktohka/zip2#13b5ebca090dfeba8b5f06b5174c3168d5fba3f3"
 dependencies = [
  "arbitrary",
  "crc32fast",
